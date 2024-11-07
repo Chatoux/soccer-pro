@@ -1,0 +1,8 @@
+/* Global styles for Soccer Pro using Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Arial', sans-serif;
+}
